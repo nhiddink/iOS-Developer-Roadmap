@@ -1,39 +1,40 @@
 ![Header image](headerImage.png)
 # 🚀 iOS Developer Roadmap 
-Roadmap to becoming an iOS developer in 2018.
+The definitive guide to becoming an iOS developer in 2018.
 
 ## ☝️ What is it?
-This is a tree-like compilation of topics highly relevant to iOS development. Both image and text version are generated from human readable content file.
+This is a tree-like compilation of topics highly relevant to iOS development. Both the image and text versions are generated from human readable content files.
 
 ## ✌️ Who is it for?
-The roadmap will be helpul for:
+This roadmap is intended for the following audiences:
 
-- anyone who wants to become an iOS developer
-- iOS developers who desire to become experts
-- iOS developers who are preparing for interviews and need to brush up knowledge
-- iOS developers who need to compile own set of interview questions
-
+- Anyone looking to become a professional iOS developer.
+- Entry-level software engineers who need to brush up on knowledge in a variety of topics to prepare for interviews.
+- Mid-level iOS developers who want to become experts in their craft.
+- Senior iOS developers and hiring managers seeking a curated list of topics for interview questions.
 
 ## 👌 Why these topics?
 See [this article](https://medium.com/@borlov/c9a24f413457) explaining selection of topics.
 
 ## 👨‍🎓 How to use this roadmap
-1. Find a topic you want to study.
-2. Go to corresponding resources section.
-3. Study until you can confidently explain the topic to your cat.
-4. (Optional) tick the checkbox next to the topic. [How to tick a checkbox](HowTo/HOWTOCHECKBOX.md).
-4. Go to step 1.
+1. Navigate to the [Text Version with Study Materials](RoadmapProject/Script/Generated/ROADMAP.md).
+2. Choose a topic and click the link to view the corresponding resources.
+3. Study until you can confidently explain the topic to your pet 🐶🐱.
+4. When you complete a topic, edit the checkbox from within markdown file. [How to tick a checkbox](HowTo/HOWTOCHECKBOX.md).
+5. Repeat ♻️.
 
-`Essential topics` are topics which significantly contribute to understanding of iOS development. Consequently, it is a good idea to study them first as they are often encountered on interviews.
+Some items are marked as `Essential topics`, or topics that significantly contribute to your understanding of iOS development. If you are short on time, it is a good idea to study these topics first, as they tend to come up often during interviews.
 
-Start from `Getting started` section if you haven't done any iOS development yet.
+For complete beginners, it is suggested that you start from the `Getting started` section.
 
 ## 🗺 Image version 
 Roadmap of essential topics. Roadmap for all topics is [here.](RoadmapProject/Script/Generated/ROADMAP.png)
 ![Header image](RoadmapProject/Script/Generated/ESSENTIALROADMAP.png)
 
 ## 📝 Text version
-[Text version with materials to study.](RoadmapProject/Script/Generated/ROADMAP.md)
+[Text Version with Study Materials](RoadmapProject/Script/Generated/ROADMAP.md)
+
+---
 
 ## 🤝 How to contribute
 
