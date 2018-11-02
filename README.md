@@ -9,9 +9,9 @@ This is a tree-like compilation of topics highly relevant to iOS development. Bo
 This roadmap is intended for the following audiences:
 
 - Anyone looking to become a professional iOS developer.
-- Entry-level software engineers who need to brush up on knowledge in a variety of topics to prepare for interviews.
-- Mid-level iOS developers who want to become experts in their craft.
-- Senior iOS developers and hiring managers seeking a curated list of topics for interview questions.
+- Entry-level iOS developers and software engineers who need to brush up on knowledge in a variety of topics to prepare for interviews.
+- Mid-level iOS developers and software engineers who want to become experts in their craft.
+- Senior iOS developers and software engineering managers seeking a curated list of topics for interview questions.
 
 ## 👌 Why these topics?
 See [this article](https://medium.com/@borlov/c9a24f413457) explaining selection of topics.
