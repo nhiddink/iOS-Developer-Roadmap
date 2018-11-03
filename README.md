@@ -28,16 +28,13 @@ Some items are marked as `Essential topics`, or topics that significantly contri
 
 For complete beginners, it is suggested that you start from the `Getting started` section.
 
-## 📝 Text version
+## 📝 Text Version
+
 [Text Version with Study Materials](RoadmapProject/Script/Generated/ROADMAP.md)
 
-## 🗺 Image version 
+## 🗺 Image Version 
 
-#### Master Skills Tree
-
-[Link to master tree](RoadmapProject/Script/Generated/ROADMAP.png)
-
-#### Essential Skills Tree
+[Link to Master Tree](RoadmapProject/Script/Generated/ROADMAP.png)
 
 ![Header image](RoadmapProject/Script/Generated/ESSENTIALROADMAP.png)
 
