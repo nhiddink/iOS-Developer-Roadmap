@@ -28,6 +28,9 @@ Some items are marked as `Essential topics`, or topics that significantly contri
 
 For complete beginners, it is suggested that you start from the `Getting started` section.
 
+## 📝 Text version
+[Text Version with Study Materials](RoadmapProject/Script/Generated/ROADMAP.md)
+
 ## 🗺 Image version 
 
 #### Master Skills Tree
@@ -37,18 +40,6 @@ For complete beginners, it is suggested that you start from the `Getting started
 #### Essential Skills Tree
 
 ![Header image](RoadmapProject/Script/Generated/ESSENTIALROADMAP.png)
-
-## 📝 Text version
-[Text Version with Study Materials](RoadmapProject/Script/Generated/ROADMAP.md)
-
----
-
-## ⚙️ Generation status
-[![Travis](https://travis-ci.org/BohdanOrlov/iOS-Developer-Roadmap.svg?branch=master)](https://travis-ci.org/BohdanOrlov/iOS-Developer-Roadmap)
-
-## 📃 License
-
-[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
 ## 📊 Skills Matrix
 
